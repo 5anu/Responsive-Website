@@ -1,2 +1,2 @@
 # Responsive-Website
-Responsive-Website using HTML3 and CSS3
+Responsive-Website using HTML5 and CSS3
